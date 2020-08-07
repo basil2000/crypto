@@ -1,2 +1,2 @@
 # crypto
-crptographic methods
+Implementation of crptographic methods using python
